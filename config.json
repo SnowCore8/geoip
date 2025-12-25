@@ -27,6 +27,22 @@
       }
     },
     {
+      "type": "text",
+      "action": "add",
+      "args": {
+        "name": "netflix",
+        "uri": "https://raw.githubusercontent.com/Loyalsoldier/geoip/refs/heads/release/text/netflix.txt"
+      }
+    },
+    {
+      "type": "text",
+      "action": "add",
+      "args": {
+        "name": "telegram",
+        "uri": "https://raw.githubusercontent.com/Loyalsoldier/geoip/refs/heads/release/text/telegram.txt"
+      }
+    },
+    {
       "type": "json",
       "action": "add",
       "args": {
