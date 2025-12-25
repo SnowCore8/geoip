@@ -72,7 +72,7 @@ geolite2/
 db-ip/
 ipinfo/
 output/
-geoip
+# geoip
 *.dat
 *.mmdb
 *.srs
