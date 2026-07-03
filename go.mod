@@ -1,6 +1,6 @@
 module github.com/Loyalsoldier/geoip
 
-go 1.24
+go 1.25.0
 
 require (
 	github.com/klauspost/compress v1.18.0
@@ -24,8 +24,8 @@ require (
 	github.com/tidwall/match v1.1.1 // indirect
 	github.com/tidwall/pretty v1.2.0 // indirect
 	golang.org/x/mod v0.27.0 // indirect
-	golang.org/x/net v0.43.0 // indirect
+	golang.org/x/net v0.55.0 // indirect
 	golang.org/x/sync v0.16.0 // indirect
-	golang.org/x/sys v0.35.0 // indirect
+	golang.org/x/sys v0.45.0 // indirect
 	golang.org/x/tools v0.36.0 // indirect
 )
